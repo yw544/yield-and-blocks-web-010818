@@ -8,7 +8,7 @@ if block_given?
   array
 
 else
-  puts "Hey! No bloc was given!"
+  puts "Hey! No block was given!"
 end
 end
 
